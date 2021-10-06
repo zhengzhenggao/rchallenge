@@ -105,7 +105,7 @@ npm start
                     "desc": *imageDescription*,
                     "timestamp": *imageTimestamp*
                 },
-                ...[]
+                ...
             ],
             "totalDataCount": 8
         }
